@@ -14,6 +14,6 @@
 <h3>Note:</h3>
 <p>This is currently in development. Please keep your package updated to avoid any unnecessary behaviour.</p>
 
-<h2>Want to contribute? Fork me! (<a href="https://github.com/balraj99/eslint-config-zemoso">Source Repo</a>)</h2>
+<h2>Want to contribute? Fork me!</h2>
 
 
