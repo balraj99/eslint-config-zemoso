@@ -16,8 +16,8 @@ module.exports = {
     rules: {
         "semi": "error",
         "linebreak-style": [
-            "error",
-            "windows"
+            "warn",
+            "unix"
         ],
         "curly": "error",
         "no-console": "off",
