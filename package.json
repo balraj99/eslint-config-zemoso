@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-zemoso",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Eslint rules for use across ZeMoSo Technologies",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "author": "Balraj Singh Saini",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 3",
+    "babel-eslint": "^10.0.3"
   }
 }

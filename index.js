@@ -2,6 +2,7 @@ module.exports = {
     globals: {
         MyGlobal: true
     },
+    "parser": "babel-eslint",
     parserOptions: {
         "ecmaVersion": 6,
         "sourceType": "module",
