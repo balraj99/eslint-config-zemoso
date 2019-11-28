@@ -15,10 +15,6 @@ module.exports = {
     },
     rules: {
         "semi": "error",
-        "linebreak-style": [
-            "warn",
-            "unix"
-        ],
         "curly": "error",
         "no-console": "off",
         "array-callback-return": 2,
